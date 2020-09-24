@@ -1,7 +1,7 @@
 {
   "name": "aut-router",
   "version": "0.0.1",
-  "description": "ezdo.js 的 router 组件",
+  "description": "基于 aut.js 的路由",
   "main": "bin/aut.router.js",
   "scripts": {
     "build": "rollup -c rollup.config.js"

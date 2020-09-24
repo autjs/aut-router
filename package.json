@@ -1,0 +1,31 @@
+{
+  "name": "aut-router",
+  "version": "0.0.1",
+  "description": "ezdo.js 的 router 组件",
+  "main": "bin/aut.router.js",
+  "scripts": {
+    "build": "rollup -c rollup.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/autjs/aut-router.git"
+  },
+  "keywords": [
+    "aut-router",
+    "aut.js"
+  ],
+  "author": "落尘",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/autjs/aut-router/issues"
+  },
+  "homepage": "https://github.com/autjs/aut-router#readme",
+  "devDependencies": {
+    "rollup": "^1.31.1",
+    "rollup-plugin-terser": "^5.2.0"
+  },
+  "files": [
+    "bin"
+  ],
+  "private": false
+}
